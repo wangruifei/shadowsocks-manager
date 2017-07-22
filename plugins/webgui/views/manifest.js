@@ -2,7 +2,7 @@ const gcmSenderId = appRequire('services/config').get('plugins.webgui.gcmSenderI
 
 const manifest = {
   short_name: 'ssmgr',
-  name: 'Woodome-VPN',
+  name: 'Woodome',
   icons: [
     {
       src: '/libs/favicon.png',
