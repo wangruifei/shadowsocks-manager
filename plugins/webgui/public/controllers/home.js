@@ -24,11 +24,7 @@ app
                 name: '首页',
                 icon: 'home',
                 click: 'home.index'
-            }, {
-                name: '轻松上手',
-                icon: 'school',
-                click: 'home.tutorials'
-            }, {
+            },  {
                 name: '下载',
                 icon: 'file_download',
                 click: 'home.download'
